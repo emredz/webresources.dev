@@ -16,8 +16,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 - [Cloud Providers](#cloud-providers)
 - [Email](#email)
 - [Search](#search)
-- [Frameworks](#frameworks)
-    - [CSS](#css), [JS](#js), [Front-end](#front-end), [Back-end](#back-end), [Mobile](#mobile), [Desktop](#desktop)
+- [Frameworks](#frameworks) *(CSS, JS, Front-end, Back-end, Mobile, Desktop)*
 - [Databases](#databases)
 - [CMS](#cms)
 - [CI / CD](#ci-cd)
@@ -83,7 +82,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 
 ## Frameworks
 
-##### CSS
+**CSS**
 
 * [bulma.io](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox. **Free for personal and commercial use**.
 * [getbootstrap.com](https://getbootstrap.com/) - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. **Free for personal and commercial use**.
@@ -91,20 +90,20 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 * [purecss.io](https://purecss.io/) - Pure is a tiny, responsive CSS framework. **Free for personal and commercial use**.
 * [tailwindcss.com](https://tailwindcss.com/) - Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. **Free for personal and commercial use**.
 
-##### JS
+**JS**
 
 * [jquery.com](https://jquery.com/) - jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML. **Free for personal and commercial use**.
 * [momentjs.com](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript. **Free for personal and commercial use**.
 * [socket.io](https://socket.io/) - Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. **Free for personal and commercial use**.
 * [threejs.org](https://threejs.org/) - Three.js is a cross-browser JavaScript library and Application Programming Interface used to create and display animated 3D computer graphics in a web browser. **Free for personal and commercial use**.
 
-##### Front-end
+**Front-end**
 
 * [angular.io](https://angular.io/) - a popular open-source JavaScript framework for building web applications. Angular is used for building single-page applications and allows developers to create dynamic, responsive, and fast web pages with a scalable architecture. **Free for personal and commercial use**.
 * [reactjs.org](https://reactjs.org/) - React is a JavaScript library for building user interfaces. **Free for personal and commercial use**.
 * [vuejs.org](https://vuejs.org/) - Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. **Free for personal and commercial use**.
 
-##### Back-end
+**Back-end**
 
 * [expressjs.com](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js. **Free for personal and commercial use**.
 * [djangoproject.com](https://www.djangoproject.com/) - Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. **Free for personal and commercial use**.
@@ -112,7 +111,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 * [laravel.com](https://laravel.com/) - Laravel is a web application framework with expressive, elegant syntax. **Free for personal and commercial use**.
 * [rubyonrails.org](https://rubyonrails.org/) - Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. **Free for personal and commercial use**.
 
-##### Mobile
+**Mobile**
 
 * [ionicframework.com](https://ionicframework.com/) - Ionic is the app development platform for web developers. Build amazing cross-platform mobile, web, and desktop apps all with one shared code base and open web standards. **Free for personal and commercial use**.
 * [reactnative.dev](https://reactnative.dev/) - React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use React along with native platform capabilities. **Free for personal and commercial use**.
@@ -120,7 +119,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 * [ionicframework.com](https://ionicframework.com/) - Ionic is the app development platform for web developers. Build amazing cross-platform mobile, web, and desktop apps all with one shared code base and open web standards. **Free for personal and commercial use**.
 * [phonegap.com](https://phonegap.com/) - PhoneGap is a free and open source framework that allows you to build cross-platform mobile apps using standard web technologies like HTML5, CSS3, and JavaScript. **Free for personal and commercial use**.
 
-##### Desktop
+**Desktop**
 
 * [electronjs.org](https://www.electronjs.org/) - Electron is an open-source software framework developed and maintained by GitHub. It allows for the development of desktop GUI applications using web technologies: it combines the Chromium rendering engine and the Node.js runtime. **Free for personal and commercial use**.
 
