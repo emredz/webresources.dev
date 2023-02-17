@@ -24,6 +24,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 - [Testing](#testing)
 - [Monitoring](#monitoring)
 - [Remote Desktop](#remote-desktop)
+- [Security](#security)
 - [Cool Websites](#cool-websites)
 
 ## Domain
@@ -179,6 +180,17 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 * [anydesk.com](https://anydesk.com/) - AnyDesk is a remote desktop software that allows you to access your computer from anywhere. **Free for personal use**.
 * [teamviewer.com](https://www.teamviewer.com/en/) - TeamViewer is a proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. **Free for personal use**.
 * [remotedesktop.google.com](https://remotedesktop.google.com/) - Google Remote Desktop is a remote desktop application developed by Google. **Free for personal and commercial use**.
+
+## Security
+
+* [monitor.firefox.com](https://monitor.firefox.com/) - Is a **free** service that allows you to check if your email address has been compromised in a data breach. You can sign up for breach monitoring and get alerts.
+* [hackertarget.com](https://hackertarget.com/) - Is a **free** online security scanning website that allows you to scan the websites and servers for vulnerabilities.
+* [anti-captcha.com](https://anti-captcha.com/) - Is a service that allows you to solve captchas automatically. Lowest price on the market and pay as you go.
+* [shodan.io](https://www.shodan.io/) - Is a search engine that allows you to search for specific types of computers (webcams, routers, servers, etc.) connected to the internet using a variety of filters. **You can benefit from a one-page search result for free**.
+* [haveibeenpwned.com](https://haveibeenpwned.com/) - Is a **free** service that allows you to check if your email address has been compromised in a data breach. You can sign up for breach monitoring and get alerts.
+* [securityheaders.com](https://securityheaders.com/) - Is a **free** service that allows you to check the security headers of a website.
+* [securitytrails.com](https://securitytrails.com/) - Is a **free** service that allows you to check the DNS records of a domain.
+* [nmap.org](https://nmap.org/) - Is a **free** and open source utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.
 
 ## Cool Websites
 
