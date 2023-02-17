@@ -1,4 +1,4 @@
-# Web Resources For Dev
+# Web Resources For Development
 
 **webresources.dev** is a <ins>comprehensive guide</ins> to the most useful websites on the internet. Here, you'll find an extensive collection that caters specifically to developers' needs.
 
