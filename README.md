@@ -19,7 +19,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 - [Frameworks](#frameworks) *(CSS, JS, Front-end, Back-end, Mobile, Desktop)*
 - [Databases](#databases)
 - [CMS](#cms)
-- [CI / CD](#ci-cd)
+- [CI - CD](#ci-cd)
 - [Log Management](#log-management)
 - [Testing](#testing)
 - [Monitoring](#monitoring)
@@ -148,7 +148,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 * [joomla.org](https://www.joomla.org/) - Joomla is a free and open-source content management system for publishing web content, developed by Open Source Matters, Inc. **Free for personal and commercial use**.
 * [wordpress.com](https://wordpress.com/) - WordPress is a free and open-source content management system (CMS) based on PHP and MySQL. **Free for personal and commercial use**.
 
-## CI / CD
+## CI - CD
 
 * [circleci.com](https://circleci.com/) - CircleCI is a continuous integration and continuous delivery platform. **Free plan includes 4,000 credits/mo**.
 * [github.com/features/actions](https://github.com/features/actions) - Github Actions is a feature that allows you to automate tasks within your software development life cycle. **Free for public repositories**.
