@@ -14,7 +14,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 
 - [Domain](#domain)
 - [Cloud Providers](#cloud-providers)
-- [Email](#email)
+- [Email](#email) *(Mailbox, Temporary, Marketing and Integration)*
 - [Search](#search)
 - [Frameworks](#frameworks) *(CSS, JS, Front-end, Back-end, Mobile, Desktop)*
 - [Databases](#databases)
@@ -66,13 +66,25 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
     * [Compute Engine](https://cloud.google.com/compute/) - Virtual machines running in Google's data centers and worldwide fiber network. **Free for 1 non-preemptible e2-micro, 30 GB-months standard persistent disk, 5 GB-month snapshot storage**.
     * [Cloud Pub/Sub](https://cloud.google.com/pubsub/) - Provides messaging between applications. Pub/Sub is designed to provide reliable, many-to-many, asynchronous messaging between applications. **Free for 10 GB of messages per month**.
 
-## Email
+## Email
+
+**Mailbox**
 
 * [gmail.com](https://gmail.com/) - Gmail is a **free, advertising-supported email service** developed by Google.
 * [outlook.live.com](https://outlook.live.com/) - Outlook is a **free, personal email service** from Microsoft.
 * [protonmail.com](https://protonmail.com/) - ProtonMail is a **free, open-source, end-to-end encrypted email service** developed by CERN and MIT scientists.
-* [sendgrid.com](https://sendgrid.com/) - SendGrid is a transactional email service that allows you to send emails through a REST API. **Free plan includes 100 emails/day**.
 * [tutanota.com](https://tutanota.com/) - Tutanota is the world’s first end-to-end encrypted mail service that encrypts the entire mailbox. With its unique open source technology developed by German software developers. **Free for 1 user and 1 GB storage**.
+
+**Temporary**
+
+* [10minutemail.com](https://10minutemail.com/) - Beat spam with the best disposable **free** email service.
+* [temp-mail.org](https://temp-mail.org/) - Is a **free** email service that allows to receive email at a temporary address that self-destructed after a certain time elapses.
+
+**Marketing and Integration**
+
+* [sendgrid.com](https://sendgrid.com/) - SendGrid is a transactional email service that allows you to send emails through a REST API. **Free plan includes 100 emails/day**.
+* [mailchimp.com](https://mailchimp.com/) - Mailchimp is a marketing automation platform and an email marketing service. **Free plan includes 1,000 emails/month**.
+* [postmarkapp.com](https://postmarkapp.com/) - Postmark is a **transactional email service** that allows you to send emails through a REST API. **Free plan includes 15,000 emails/month**.
 
 ## Search
 
