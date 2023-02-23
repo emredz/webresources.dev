@@ -25,6 +25,7 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 - [Monitoring](#monitoring)
 - [Remote Desktop](#remote-desktop)
 - [Security](#security)
+- [Web Servers](#web-servers)
 - [Cool Websites](#cool-websites)
 
 ## Domain
@@ -191,6 +192,17 @@ You can send a [Pull Request](https://github.com/emredz/webresources.dev) to hel
 * [securityheaders.com](https://securityheaders.com/) - Is a **free** service that allows you to check the security headers of a website.
 * [securitytrails.com](https://securitytrails.com/) - Is a **free** service that allows you to check the DNS records of a domain.
 * [nmap.org](https://nmap.org/) - Is a **free** and open source utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime.
+* [letsencrypt.org](https://letsencrypt.org/) - Is a **free**, automated and open certificate authority brought to you by the non-profit Internet Security Research Group (ISRG).
+* [cloudflare.com](https://www.cloudflare.com/) - Is a **free** and paid web-infrastructure and website-security company, providing content-delivery-network services, DDoS mitigation, Internet security and distributed domain-name-server services.
+
+## Web Servers
+
+* [apache.org](https://www.apache.org/) - Is a free and open-source cross-platform web server software. **Free for personal and commercial use**.
+* [iis.net](https://www.iis.net/) - Is a flexible, secure and manageable web server for hosting anything on the web. From media streaming to web applications, IIS's scalable and open architecture is ready to handle the most demanding tasks by Microsoft for Windows server. **Free for personal and commercial use**.
+* [lighttpd.net](https://www.lighttpd.net/) - Is a secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. Uses memory and CPU efficiently and has lower resource use than other popular web servers. Has a very low memory footprint compared to other webservers and takes care of cpu-load. Its advanced feature-set (FastCGI, CGI, Auth, Output-Compression, URL-Rewriting and many more) make lighttpd the perfect webserver-software for every server that suffers load problems. **Free for personal and commercial use**.
+* [litespeedtech.com](https://www.litespeedtech.com/) - Is proprietary web server software developed by privately held LiteSpeed Technologies. It is a drop-in Apache replacement and the leading high-performance, high-scalability server. You can replace your existing Apache server with it without changing your configuration or operating system details. As a drop-in replacement, it allows you to quickly eliminate Apache bottlenecks with zero downtime. **Free for personal and commercial use**.
+* [nginx.com](https://www.nginx.com/) - Is a free, open-source, high-performance HTTP server and reverse proxy, as well as an IMAP/POP3 proxy server. **Free for personal and commercial use**.
+* [tomcat.apache.org](https://tomcat.apache.org/) - Is one of the best web server software options for Java applications. Free and open-source web server and servlet container developed by the Apache Software Foundation. **Free for personal and commercial use**.
 
 ## Cool Websites
 
